@@ -31,8 +31,8 @@ And remember: With great power comes... (we already know).
 ---------------------------------------------------------------------------------------------
 Level 1 | Basic
 ------------------------------------------------|--------------------------------------------
-[0] | TCP or UDP server just to receive messages
-[1] | TCP chat server
+[0] | TCP or UDP server just to receive messages (Complete)
+[1] | TCP chat server (Complete)
 [2] | UDP chat server
 [3] | Multi-threaded UDP or TCP chat server
 [4] | Server for file transfers
